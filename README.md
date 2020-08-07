@@ -1,2 +1,2 @@
-# Projects-Hardware
-This is the Storage of all hardware related Projects created by myself
+# Open-Projects
+This is the Storage of all Open Source related Projects created by myself
